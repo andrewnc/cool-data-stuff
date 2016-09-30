@@ -1,0 +1,122 @@
+#Notes for information change in voterfileNym.csv
+
+optimus_id: N/A
+age: blank: 0
+
+party:
+	Republican: 1
+	American Independent: 2
+	Non-Partisan: 3
+	Democratic: 4
+	Other: 5
+	Libertarian: 6
+	Green: 7
+	Natural Law: 8
+
+Ethnicity: 
+	nan: 0
+	European: 1
+	African-American: 2
+	Hispanic: 3
+	Asian: 4
+
+maritalStatus:
+	nan: 0
+	Married: 1
+	Non-Traditional: 2
+
+dwellingType:
+	nan: 0
+	Single Family Dwelling Unit: 1
+	Small Mult or Large mult w/apt number: 2
+	Large mult wo/Apt number: 3
+
+income:
+	Unknown: 0
+	0-35k: 1
+	35k-75k: 2
+	75k-125k: 3
+	125k-200k: 4
+	200k+: 5
+
+education:
+	nan: 0
+	HS Diploma - Likely: 1
+	Some College - Likely: 2
+	Bach Degree - Extremely Likely: 3
+	HS Diploma - Extremely Likely: 4
+	Bach Degree - Likely: 5
+	Grad Degree - Extremely Likely: 6
+	Some College -Extremely Likely: 7
+	Grad Degree - Likely: 8
+	Less than 1: 9
+	Vocational Technical Degree - Extremely Likely: 10
+	Less than HS Diploma - Ex Like: 11
+
+cd: blank: 0
+
+dma:
+	LAS VEGAS DMA (EST.): 1
+	RENO DMA (EST.): 2
+	SALT LAKE CITY DMA (EST.): 3
+	LOS ANGELES DMA (EST.): 4
+
+occupationindustry:
+	nan: 0
+	Medical: 1
+	Manufacturing: 2
+	Skilled Trades: 3
+	Education: 4
+	Other: 5
+	Management: 6
+	Fi0cial Services: 7
+	Clerical/Office: 8
+	Food Services: 9
+	Military: 10
+	Mainte0ce Services: 11
+	Civil Servant: 12
+	Engineering: 13
+	Computer Professional: 14
+	Legal: 15
+	Sales/Marketing: 16
+	Creative Arts: 17
+	Scientific: 18
+
+net_worth:
+	nan: 0
+	$1-4999: 1
+	$5000-9999: 2
+	$10000-24999: 3
+	$25000-49999: 4
+	$50000-99999: 5
+	$100000-249999: 6
+	$250000-499999: 7
+	$499999+: 8
+
+petowner:
+	nan: 0
+	Yes: 1
+
+intrst_nascar_in_hh:
+	nan: 0
+	Yes: 1
+
+intrst_musical_instruments_in_hh:
+	nan: 0
+	Yes: 1
+
+donates_to_liberal_causes:
+	nan: 0
+	Yes: 1
+
+donates_to_conservative_causes:
+	nan: 0
+	Yes: 1
+
+home_owner_or_renter:
+	nan: 0
+	Likely Homeowner: 1
+	Likely Renter: 2
+
+
+
